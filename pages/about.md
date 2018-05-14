@@ -4,7 +4,9 @@ layout: page
 permalink: /about/
 ---
 
-# About {{ site.title }}
+# About this great Symposium project
+
+This collection was built by people involved in the DH symposium on Day 1. This overall collection is comprised of several different collections housed at University of Idaho and Washington State University.
 
 Digital collection site built via metadata and Jekyll.
 

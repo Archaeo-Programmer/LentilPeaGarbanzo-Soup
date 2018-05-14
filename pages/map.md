@@ -1,6 +1,6 @@
 ---
 title: Map
-mapcenter: 45.67269023984288, -116.78261356184085
+mapcenter: 39.952912, -98.657227
 zoom: 2
 layout: map
 permalink: /map/
